@@ -1,6 +1,7 @@
 # My Portfolio Page - Showcase of Professional Journey (Demo for my course )
 <img width="1092" alt="PTqe3u-ORimyFl387QSQGA_3e625d6492e84761bad38378b35121a1_image3" src="https://github.com/mohamedreda22/portfolio/assets/73208810/2f21a422-ea08-45cc-a182-15ae334e405a">
-![image](https://github.com/mohamedreda22/portfolio/assets/73208810/e5fd7b85-c3f1-4a73-a832-c86b6872261c)
+<img width="1078" alt="project preview" src="https://github.com/mohamedreda22/portfolio/assets/73208810/8cfddc8b-923a-4064-b8a0-ac8b42e01db0">
+
 <img width="776" alt="vkV8zuP1SuG17v1IJs2NKw_f393cbb2b6214cc5bedd276a928b69a1_image4" src="https://github.com/mohamedreda22/portfolio/assets/73208810/1eed7dc8-fc21-4f25-a4d5-3274efc40c19">
 
 
